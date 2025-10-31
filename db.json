@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "Tytul 1", "body": "Opis 1" },
+    { "id": 2, "title": "Tytul 2", "body": "Opis 2" }
+  ],
+  "comments": [
+    { "id": 1, "postId": 1, "body": "Komentarz 1" },
+    { "id": 2, "postId": 1, "body": "Komentarz 2" },
+    { "id": 3, "postId": 2, "body": "Rozwodzimy się synu i to twoja wina." }
+  ]
+}
